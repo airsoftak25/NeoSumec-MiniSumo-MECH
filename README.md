@@ -1,0 +1,2 @@
+# NeoSumec-MiniSumo-MECH
+
