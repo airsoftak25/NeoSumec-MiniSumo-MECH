@@ -4,9 +4,8 @@
 This repositorie contains: .step .stl .ipt and other design files for our school project **NeoSumec** robots
 
 # Contributors
-Peoples that work on the mechanical part of our project
+People that work on the mechanical part of our project 
 |Name|on what they worked|
 |:-|:-|
 | Vadim Sobčuk | Head of design, quality and technological inspection |
-| Martin Moravec | Designer of prototype for our MK-1 |
-| Ondřej Janoušek | Designer of prototype for our MK-1 |
+| Martin Moravec | Designer of prototype models for MK-1 |
