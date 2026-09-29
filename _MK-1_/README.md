@@ -1,9 +1,5 @@
 # **MK-1**
-Our first autonomus MiniSumo robot witch we desighned
-
-<p alighn="center">
-	<img scr="Images/MK-1_Foto1.png" width="600" alt="MK-1_Assembly Foto">
-</p>	
+![MK-1 foto](Images/MK-1_Foto1.png)
 
 # Table of content
 | Folder/File | What contains |
